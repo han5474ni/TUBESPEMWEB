@@ -81,4 +81,4 @@ EventNow bertujuan menjadi pusat informasi terintegrasi untuk semua kegiatan mah
 ## 🔗 Link Repository
 
 > Repositori aktif sejak minggu pertama  
-> 🔗 [https://github.com/han5474ni/eventnow](https://github.com/han5474ni/eventnow)
+> 🔗 [https://github.com/han5474ni/EventNow](https://github.com/han5474ni/EventNow)
