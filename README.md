@@ -1,22 +1,19 @@
-Tugas Besar Pemrograman Web RB
-Handayani
-122140166
 
-# 🎉 EventNow – Platform Manajemen dan Pendaftaran Acara ITERA
+# EventNow – Platform Manajemen dan Pendaftaran Acara ITERA
 
 EventNow adalah platform web yang dirancang untuk membantu civitas akademika ITERA dalam mengelola dan mengakses informasi seputar event kampus seperti Studium Generale, seminar, dan kegiatan Himpunan maupun UKM. Aplikasi ini dilengkapi dengan fitur login Google, sistem CRUD event, dan tampilan antarmuka yang responsif.
 
 ---
 
-## 🚀 Deskripsi Aplikasi
+## Deskripsi Aplikasi
 
 EventNow bertujuan menjadi pusat informasi terintegrasi untuk semua kegiatan mahasiswa ITERA. Setiap pengguna yang login menggunakan akun Google dapat melihat daftar event, mengelola event sesuai kategorinya, serta melakukan pendaftaran secara digital. Platform ini dibangun menggunakan Python Pyramid untuk backend dan React JS untuk frontend, dengan komunikasi melalui RESTful API.
 
 ---
 
-## ⚙️ Teknologi & Dependensi
+##  Teknologi & Dependensi
 
-### 🔧 Backend
+###  Backend
 - [Python Pyramid](https://trypyramid.com/)
 - PostgreSQL
 - SQLAlchemy
@@ -24,7 +21,7 @@ EventNow bertujuan menjadi pusat informasi terintegrasi untuk semua kegiatan mah
 - Pyramid RESTful API
 - `pytest` (untuk unit testing ≥ 60% coverage)
 
-### 🎨 Frontend
+###  Frontend
 - [React JS](https://react.dev/)
 - React Router DOM
 - Context API
@@ -34,7 +31,7 @@ EventNow bertujuan menjadi pusat informasi terintegrasi untuk semua kegiatan mah
 
 ---
 
-## 📁 Fitur Aplikasi
+##  Fitur Aplikasi
 
 - Login dengan akun Google (OAuth2)
 - Daftar semua event yang sedang berlangsung
@@ -46,10 +43,10 @@ EventNow bertujuan menjadi pusat informasi terintegrasi untuk semua kegiatan mah
 
 ---
 
-## 📦 Struktur Folder
+## Struktur Folder
 ---
 
-## 🧪 Endpoint API (Contoh)
+##  Endpoint API (Contoh)
 
 | Endpoint              | Method | Fungsi                          |
 |-----------------------|--------|----------------------------------|
@@ -70,11 +67,11 @@ EventNow bertujuan menjadi pusat informasi terintegrasi untuk semua kegiatan mah
 
 ---
 
-## 📌 Referensi
+##  Referensi
 
 ---
 
-## 📝 Penulis
+##  Penulis
 
 - Nama: **Handayani**
 - NIM: **122140166**
@@ -82,7 +79,7 @@ EventNow bertujuan menjadi pusat informasi terintegrasi untuk semua kegiatan mah
 
 ---
 
-## 🔗 Link Repository
+##  Link Repository
 
 > Repositori aktif sejak minggu pertama  
-> 🔗 [https://github.com/han5474ni/EventNow](https://github.com/han5474ni/EventNow)
+>  [https://github.com/han5474ni/EventNow](https://github.com/han5474ni/EventNow)
