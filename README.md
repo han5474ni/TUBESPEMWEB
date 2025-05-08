@@ -1,3 +1,7 @@
+Tugas Besar Pemrograman Web RB
+Handayani
+122140166
+
 # 🎉 EventNow – Platform Manajemen dan Pendaftaran Acara ITERA
 
 EventNow adalah platform web yang dirancang untuk membantu civitas akademika ITERA dalam mengelola dan mengakses informasi seputar event kampus seperti Studium Generale, seminar, dan kegiatan Himpunan maupun UKM. Aplikasi ini dilengkapi dengan fitur login Google, sistem CRUD event, dan tampilan antarmuka yang responsif.
